@@ -7,7 +7,7 @@ Intra/inter identifier is a implementation of aSTEAM Project (Next-Generation In
 
 ## Requirements and Dependencies
 * Above development was based on the Python 3.5 (`64bit`)
-* Please import packages (`numpy, xlrd, pd)
+* Please import packages (`numpy, xlrd, pd`)
 
 ## How to use
   1. Input edge information (`column 1: source node id, column 2: target node id`) 
